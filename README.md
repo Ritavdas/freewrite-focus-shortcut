@@ -114,6 +114,17 @@ Once set up, simply press your assigned keyboard combination from anywhere on yo
 2. Launch FreeWrite
 3. Automatically enter fullscreen mode
 
+## Important Note About Fullscreen
+
+⚠️ **The automatic fullscreen feature can be unreliable.** The AppleScript method used to trigger fullscreen mode doesn't always work consistently across different macOS versions and FreeWrite updates. You may encounter errors or find that the fullscreen action doesn't activate.
+
+**If the fullscreen feature breaks:**
+- You can manually enter fullscreen after the app launches (using the green button or View menu)
+- You can try the alternative methods listed in the Troubleshooting section below
+- You can modify the shortcut yourself to remove or replace the fullscreen action
+
+The core functionality (hiding apps and launching FreeWrite) works reliably - the fullscreen automation is the fragile part.
+
 ## Troubleshooting
 
 ### Error: "Shortcuts is not allowed to send keystrokes"
