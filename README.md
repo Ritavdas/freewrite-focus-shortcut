@@ -2,6 +2,11 @@
 
 A macOS Shortcut that instantly hides all running applications and launches freewrite in fullscreen mode, creating a distraction-free writing environment with a single keyboard command.
 
+https://github.com/user-attachments/assets/5e1e555f-9bf0-4543-85a8-63fff945c8ce
+
+
+
+
 ## Features
 
 - **One-key activation**: Launch with a customizable keyboard shortcut
